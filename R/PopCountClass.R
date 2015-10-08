@@ -1,0 +1,1 @@
+PopCount <- setRcppClass("PopCount")

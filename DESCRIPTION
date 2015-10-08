@@ -1,0 +1,17 @@
+Package: XRcppExamples
+Type: Package
+Title: Simple Examples of Interfacing to C++ from R
+Version: 0.3
+Date: 2015-08-29
+Author: John M Chambers
+Maintainer: <jmc@stat.stanford.edu>
+Description: Some examples of C++ and R code using the Rcpp package to
+  share functions and classes, as described in "Extending R"
+License: GPL(>=2)
+LazyLoad: yes
+LazyData: yes
+Depends: R (>= 2.15.0), Rcpp, methods
+Imports: Rcpp (>= 0.8.5), methods
+LinkingTo: Rcpp
+Packaged: 2015-10-08 16:36:42 UTC; jmc
+NeedsCompilation: yes

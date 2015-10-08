@@ -1,0 +1,1 @@
+PopBD <- setRcppClass("PopBD")

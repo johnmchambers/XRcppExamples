@@ -1,0 +1,3 @@
+useDynLib(XRcppExamples)
+exportPattern("^[[:alpha:]]+")
+import(Rcpp)
